@@ -9,14 +9,14 @@
 <a href="https://twitter.com/milan_ayush" target="_blank" style="margin-left: 5px;">
 <img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/ayush.milan.9/" target="_blank" style="margin-left: 5px;">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/ayush-milan/" target="_blank" style="margin-left: 5px;">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@ayushmilan000" target="_blank" style="margin-left: 5px;">
   <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/ayush-milan/" target="_blank" style="margin-left: 5px;">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://www.facebook.com/ayush.milan.9/" target="_blank" style="margin-left: 5px;">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/ayushmilan007/" target="_blank" style="margin-left: 5px;">
 <img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
