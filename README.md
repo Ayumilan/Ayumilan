@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Milan</h1>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayumilan&color=green" alt="AyushMilan" /> </p>
   
-<p align="justify">A programmer💻 who loves to learn different technologies⚡. Skilled in C++ (Programming Language), C, Python and core JAVA. </p>
+<p align="center">A programmer💻 who loves to learn different technologies⚡. Skilled in C++ (Programming Language), C, Python and core JAVA. </p>
   
 <div align="center">
 
