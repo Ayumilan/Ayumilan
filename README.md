@@ -1,5 +1,5 @@
 <div align="center" >  
-  <img src="https://github.com/Ayumilan/Ayumilan/blob/main/pics/ayush.jpg" height=400>
+  <img src="https://drive.google.com/file/d/1uUZk67-QqH6SHvvtR9r4Knx98HnRQUPf/view?usp=sharing" height=400>
 </div>
 <br>
   <div align="center">
