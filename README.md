@@ -1,7 +1,9 @@
 <div align="center" >  
   <img src="https://github.com/Ayumilan/Ayumilan/blob/main/Hello%20World...%20I%20am%20AYUSH%20MILAN.gif" height=400>
 </div>
-<h3>Connect with me</h3>
+<div align="center" >
+<h2>Connect with me</h2>
+</div>
 <br>
   <div align="center">
 <a href="https://github.com/Ayumilan" target="_blank" style="margin-left: 5px;">
