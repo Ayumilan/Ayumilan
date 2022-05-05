@@ -31,18 +31,6 @@
  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ayumilan&layout=compact&theme=ion" />
 <br>
-  
-<!-- Contribution Graph -->
-
-<br>
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Ayumilan&theme=qcode" /></p>
-    
-    
-<br>
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayumilan&theme=delhinight" />
-  
-  <br>  <br>
-  <img width=900 src="https://github-profile-trophy.vercel.app/?username=Ayumilan&column=7&no-frame=true"/>
 
 </div>
 
