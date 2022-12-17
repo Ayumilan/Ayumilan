@@ -1,5 +1,5 @@
 <div align="center" >  
-  <img src="https://github.com/Ayumilan/Ayumilan/blob/main/m.mp4" height=400>
+  <img src="https://github.com/Ayumilan/Ayumilan/blob/main/m.mp4](https://github.com/Ayumilan/Ayumilan/blob/main/demo.gif" height=400>
 </div>
 <h1 align="center">Hi 👋, I'm Ayush Milan</h1>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayumilan&color=green" alt="AyushMilan" /> </p>
