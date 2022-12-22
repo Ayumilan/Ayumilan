@@ -1,6 +1,6 @@
 <div align="center" >  
 </div>
-<img src="./ayu.jpg">
+<img src="./ayu.JPG">
 <h1 align="center">Hi 👋, I'm Ayush Milan</h1>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayumilan&color=green" alt="AyushMilan" /> </p>
   
